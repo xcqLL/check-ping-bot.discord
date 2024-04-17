@@ -1,5 +1,6 @@
 # Check ping (Discord bot) 
 EN : This is a simple Python Discord bot code, which aims to check our ping
+ID : ini adalah code python bot discord yang simpel , yaitu bertujuan mengecek ping 
 
 # Setup :
 1. Install Visual studio code
