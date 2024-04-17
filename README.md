@@ -10,4 +10,4 @@ ID : ini adalah code python bot discord yang simpel , yaitu bertujuan mengecek p
 5. run it (py bot.py) and try /myping
 6. Enjoy
 
-> NOTE : MAKE SURE U INSTALL PYTHON 
+> **NOTE : MAKE SURE U INSTALL PYTHON** 
