@@ -10,4 +10,4 @@
 5. run it (py bot.py) and try /myping
 6. Enjoy
 
-> **NOTE : MAKE SURE U INSTALL PYTHON** 
+> **NOTE : MAKE SURE U INSTALL PYTHON AND GIVE THE BOTS ADMINISTRATOR ROLE** 
